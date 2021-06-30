@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8408f350-0d22-4aac-bdea-604519bbfad9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/logs/BoostMyVocabulary.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/logs/BoostMyVocabulary.log.2021-03-01.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/SylleryumApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/ControllerReturnStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/EntityToHATEOAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/JsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/ResponseBodyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/TokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/commons/TraceIdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/ResponseTokenBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/WhiteSpaceRemovalDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/BcryptEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/JWTConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/JWTKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/JwtUsernameAndPasswordAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/config/security/TokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/email/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/email/EmailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/ApiUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/GrammarCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/PasswordResetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/ResetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/ResponseToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/UserToRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/entity/WordProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/exception/IlegalCredentialsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/exception/ResourceAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/exception/ResourceBadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/exception/TokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/repository/ApiUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/repository/ConfirmationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/repository/ResetTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/service/ApiUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/service/ConfirmationTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/java/com/sylleryum/sylleryum/service/ResetTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BoostMyVocabulary/src/test/java/com/sylleryum/sylleryum/SylleryumApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-21.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-22.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-24.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-25.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-26.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/logs/BoostMyVocabulary.log.2021-02-27.0.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/SylleryumApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/commons/ControllerReturnStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/commons/JsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/commons/ResponseBodyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/commons/TokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/commons/TraceIdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/ResponseTokenBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/WhiteSpaceRemovalDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/BcryptEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/JWTConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/JWTKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/JwtUsernameAndPasswordAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/config/security/TokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/email/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/email/EmailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/ApiUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/PasswordResetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/ResetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/ResponseToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/entity/UserToRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/exception/IlegalCredentialsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/exception/ResourceAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/exception/ResourceBadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/exception/TokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/repository/ApiUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/repository/ConfirmationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/repository/ResetTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/service/ApiUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/java/com/sylleryum/sylleryum/service/ResetTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Full authentication/src/test/java/com/sylleryum/sylleryum/SylleryumApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StringSpotify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../getTopTracks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/src/main/java/com/sylleryum/configurationserver/ConfigurationserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configurationserver/src/test/java/com/sylleryum/configurationserver/ConfigurationserverApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/src/main/java/com/sylleryum/discoveryserver/DiscoveryserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoveryserver/src/test/java/com/sylleryum/discoveryserver/DiscoveryserverApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pizzaria_final/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/src/main/java/com/sylleryum/spotifyhelper/SpotifyhelperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spotifyhelper/src/test/java/com/sylleryum/spotifyhelper/SpotifyhelperApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/git" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CryptoCheckerNew/cryptochecker" beforeDir="false" afterPath="$PROJECT_DIR$/../../CryptoCheckerNew/cryptochecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HATEOAS sga-airline/steins-gate-airline" beforeDir="false" afterPath="$PROJECT_DIR$/../../HATEOAS sga-airline/steins-gate-airline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interface" beforeDir="false" afterPath="$PROJECT_DIR$/../../Interface" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgramacaoWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgramacaoWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api security header/javadevjournal" beforeDir="false" afterPath="$PROJECT_DIR$/../../api security header/javadevjournal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../binance-java-api" beforeDir="false" afterPath="$PROJECT_DIR$/../../binance-java-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../herokuPostgresqlTest" beforeDir="false" afterPath="$PROJECT_DIR$/../../herokuPostgresqlTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library-api Udemy Rest Api design/library-apis" beforeDir="false" afterPath="$PROJECT_DIR$/../../library-api Udemy Rest Api design/library-apis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../meajudaaajudar" beforeDir="false" afterPath="$PROJECT_DIR$/../../meajudaaajudar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pizzariaOld/pizzaria_unisulLocal" beforeDir="false" afterPath="$PROJECT_DIR$/../../pizzariaOld/pizzaria_unisulLocal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pizzaria_final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pizzaria_final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spotifyit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spotifyit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring security/spring-boot-security-course" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring security/spring-boot-security-course" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uVLHcwPrHKZcY8CSRkqaLBOO3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8408f350-0d22-4aac-bdea-604519bbfad9" name="Default Changelist" comment="" />
+      <created>1624745723126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624745723126</updated>
+      <workItem from="1624745724736" duration="1472000" />
+      <workItem from="1625088456856" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
